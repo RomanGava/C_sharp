@@ -65,8 +65,7 @@
 
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
-// 5 -> 1, 4, 9, 16, 25.
-// 2 -> 1,4
+
 
 Console.WriteLine("Введите число");
 int num = Convert.ToInt32(Console.ReadLine());
